@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Singh
 - 👀 I’m interested in developing various things like a website, app and other cool stuffs.
-- 🌱 I’m currently learning Flutter and Frontend
+- 🌱 I’m currently learning Flutter and Animations
 - 💞️ I’m looking to collaborate on Github and VS Code
 - 📫 You can contact me through linkdn - https://www.linkedin.com/in/aryan-singh-91b211304/
 
